@@ -37,9 +37,7 @@ This guide is written for **complete beginners**, including people who have **ne
 
 ### 🧱 DOM = Document Object Model
 
-The **DOM (Document Object Model)** is a representation of your web page structured like a tree. Each HTML tag becomes a **node** in this tree. Browsers build this model from the HTML code.
-
-This model lets you use JavaScript (or TypeScript) to **read or change** parts of the web page.
+The **DOM (Document Object Model)** is a representation of your web page and it lets you use JavaScript (or TypeScript) to **read or change** parts of the web page.
 
 > 💡 Think of HTML as the blueprint of a house, and the DOM as the actual house that's built from that blueprint. Once the house is built, you can move walls, add furniture, or even change the layout — just like how the DOM allows you to interact with and modify the web page after it’s loaded.
 
