@@ -1,5 +1,5 @@
 tags: code
-# Step-by-Step Guide to Building the "Nat Iframe Renderer" Obsidian Plugin
+# Step-by-Step Guide to Building the "Iframe Renderer" Obsidian Plugin
 
 > Github code is [here](https://github.com/natarslan/obsidian-iframe-renderer). 
 ## **Introduction**
