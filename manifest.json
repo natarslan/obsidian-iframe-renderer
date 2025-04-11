@@ -1,0 +1,12 @@
+{
+  "id": "nat-iframe-renderer",
+  "name": "Nat Iframe Renderer",
+  "version": "1.0.0",
+  "minAppVersion": "0.12.0",
+  "description": "An Obsidian plugin to render local HTML files in markdown files using iframes.",
+  "author": "Nat",
+  "authorUrl": "https://yourwebsite.com",
+  "isDesktopOnly": false,
+  "main": "main.js",
+  "css": "styles.css"
+}
