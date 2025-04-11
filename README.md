@@ -1,4 +1,4 @@
-# Step-by-Step Guide to Building the "Nat Iframe Renderer" Obsidian Plugin
+# Step-by-Step Guide to Building the "Iframe Renderer" Obsidian Plugin
 
 ## **Introduction**
 
