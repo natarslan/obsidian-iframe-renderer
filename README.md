@@ -651,21 +651,6 @@ If everything works, you'll see a new `main.js` file.
 
 ## ✅ You Did It!
 
-You’ve built and installed your own Obsidian plugin from scratch. Nice work!
-
-You now know how to:
-
-- Use npm to manage dependencies.
-    
-- Write TypeScript and compile it.
-    
-- Use the Obsidian API.
-    
-- Load and test custom plugins.
-    
-
-Feel free to explore and customize the plugin further. Add error handling, adjustable iframe size, or even support for remote URLs. The sky’s the limit.
-
 ---
 
 🌐 **Further Reading & Resources**
